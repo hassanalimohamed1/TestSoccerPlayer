@@ -1,0 +1,12 @@
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/TestSoccerPlayer/bin/Debug/netcoreapp3.1/TestSoccerPlayer.deps.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/TestSoccerPlayer/bin/Debug/netcoreapp3.1/TestSoccerPlayer.runtimeconfig.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/TestSoccerPlayer/bin/Debug/netcoreapp3.1/TestSoccerPlayer.runtimeconfig.dev.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/TestSoccerPlayer/bin/Debug/netcoreapp3.1/TestSoccerPlayer.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/TestSoccerPlayer/bin/Debug/netcoreapp3.1/TestSoccerPlayer.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/TestSoccerPlayer/obj/Debug/netcoreapp3.1/TestSoccerPlayer.csprojAssemblyReference.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/TestSoccerPlayer/obj/Debug/netcoreapp3.1/TestSoccerPlayer.AssemblyInfoInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/TestSoccerPlayer/obj/Debug/netcoreapp3.1/TestSoccerPlayer.AssemblyInfo.cs
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/TestSoccerPlayer/obj/Debug/netcoreapp3.1/TestSoccerPlayer.csproj.CoreCompileInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/TestSoccerPlayer/obj/Debug/netcoreapp3.1/TestSoccerPlayer.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/TestSoccerPlayer/obj/Debug/netcoreapp3.1/TestSoccerPlayer.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/TestSoccerPlayer/obj/Debug/netcoreapp3.1/TestSoccerPlayer.genruntimeconfig.cache
